@@ -4,7 +4,7 @@ $logFilePath = "C:\PowerShell_Scripts\Logs\apache_access.logs"
 # Read the content of the log file
 $logContent = Get-Content -Path $logFilePath
 
-# Specify the time period for analysis (adjust as needed)
+# Specify the time period for analysis
 $startTime = Get-Date "12/Dec/2023 00:00:00"
 $endTime = Get-Date "12/Dec/2023 23:59:59"
 

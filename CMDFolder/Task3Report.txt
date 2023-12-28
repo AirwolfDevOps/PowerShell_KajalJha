@@ -1,0 +1,11 @@
+Web Server Activity Report
+--------------------------
+
+Total Requests: 10
+
+Top Accessed URLs:
+  [-]: 3 requests   [GET / HTTP/1.1]: 2 requests   [POST /lib/ajax/service.php?sesskey=aRgi4E1Krh&info=core_session_time_remaining&nosessionupdate=true HTTP/1.1]: 2 requests   [GET /login/index.php HTTP/1.1]: 1 requests   [POST /webservice/restful/server.php/get_quiz_questions HTTP/1.1]: 1 requests
+
+Response Code Distribution:
+  [200]: 5 requests   [303]: 2 requests   [408]: 3 requests
+
